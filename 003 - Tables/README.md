@@ -1,0 +1,1 @@
+**Resources: [Basics of Tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics), [Tables Advancements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced), [Tables CSS Stylesheet](https://github.com/mdn/learning-area/blob/main/html/tables/basic/minimal-table.css)
