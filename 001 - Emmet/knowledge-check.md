@@ -16,4 +16,4 @@
 
 ## What syntax would you use to create three elements that have the same class name?
 
-> element.classname\*3 <br> An example of this could be 'h1.header\*3'
+> element.classname\*3 <br> An example of this could be 'p.same{Item $}\*3'
