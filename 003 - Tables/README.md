@@ -14,6 +14,6 @@
 
 ## What is the scope attribute?
 
-> 
+> The scope attribute is used to tell a screen reader what a table header is used for. Is it a row, or a column, rowgroup, or colgroup?
 
 **Resources: [Basics of Tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics), [Tables Advancements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced), [Tables CSS Stylesheet](https://github.com/mdn/learning-area/blob/main/html/tables/basic/minimal-table.css)**
